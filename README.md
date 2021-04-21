@@ -1,2 +1,2 @@
-# NOA_LinearRegression
-Materials for Linear Regression Class
+# NOA_CEP_Regression_Optimization
+Materials for Regression and Optimization Classes
